@@ -12,7 +12,7 @@ gem "activerecord", "~> 6.1"
 # https://github.com/sinatra-activerecord/sinatra-activerecord
 gem "sinatra-activerecord"
 
-gem "rack-contrib" , "~> 2.3"
+# gem "rack-contrib" , "~> 2.3"
 
 # Run common tasks from the command line
 # https://github.com/ruby/rake
